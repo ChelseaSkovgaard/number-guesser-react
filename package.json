@@ -1,7 +1,7 @@
 {
-  "name": "weathrly",
+  "name": "number guesser",
   "version": "1.0.0",
-  "description": "a weather app",
+  "description": "a react app",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --inline",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/hilarylewis92/weathrly.git"
   },
-  "author": "Chelsea and Hilary",
+  "author": "Chelsea",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hilarylewis92/weathrly/issues"
