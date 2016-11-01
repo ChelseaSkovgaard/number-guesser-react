@@ -25,10 +25,6 @@ input {
   padding: 2px;
 }
 
-.last-guess  {
-  font-size: 20px;
-}
-
 button {
   display: block;
   margin: auto;
@@ -38,21 +34,21 @@ button {
   border: none;
 }
 
-
-
-.submit-btn, .clear-guess {
-  display: inline-block;
-  margin-right: 10px;
-
-}
-
-
 .main-container {
   background-color: white;
   width: 500px;
-  height: 300px;
+  height: 350px;
   text-align: center;
   margin: auto;
   margin-top: 100px;
   border-radius: 5px;
+}
+
+.last-guess  {
+  font-size: 20px;
+}
+
+.submit-btn, .clear-guess {
+  display: inline-block;
+  margin-right: 10px;
 }
